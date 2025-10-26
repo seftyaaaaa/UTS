@@ -27,7 +27,7 @@ st.markdown("""
 <style>
 [data-testid="stAppViewContainer"] {
     background: linear-gradient(135deg, #b3c7ff, #8e9fff);
-    color: #a6c1ff;
+    color: #f2f6ff;
     font-family: 'Arial', sans-serif;
     padding: 2rem 3rem;
     margin: 0;
@@ -78,7 +78,7 @@ st.markdown("""
     background-color: rgba(255,255,255,0.06);
     padding: 8px 15px;
     border-radius: 12px;
-    color: #a6c1ff;
+    color: #f2f6ff;
     margin-bottom: 15px;
     text-align: center;
     border: 1px solid rgba(255,255,255,0.04);
@@ -89,7 +89,7 @@ st.markdown("""
     border: 1px solid rgba(255,255,255,0.03);
     border-radius: 10px;
     padding: 15px;
-    color: #a6c1ff;
+    color: #f2f6ff;
     margin-top: 10px;
     font-weight: 500;
     text-align: justify;
